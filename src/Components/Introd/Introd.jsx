@@ -21,7 +21,7 @@ const Introd = () => {
           <span>Hii! I Am</span>
           <span>Manisha Choudhary</span>
           <span>
-            Frontend developer with an <br /> expertise in web designing and
+            FullStack  developer with an <br /> expertise in web designing and
             development <br /> producing quality work
           </span>
         </div>
@@ -59,7 +59,7 @@ const Introd = () => {
           transition={transition}
           className="floating-div"
         >
-          <FloatingDiv img={crown} text1="Web" text2="Developer" />
+          <FloatingDiv img={crown} text1="FullStack" text2="Developer" />
         </motion.div>
 
         {/* animation */}

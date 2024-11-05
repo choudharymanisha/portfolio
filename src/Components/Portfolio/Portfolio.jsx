@@ -26,10 +26,14 @@ const Portfolio = () => {
              >
                 
                 <SwiperSlide>
+                    <a href = "https://johaldairy.netlify.app/">
                     <img src={dairy} alt="Dairy Project" />
+                    </a>
                 </SwiperSlide>
                 <SwiperSlide>
+                    <a href = "https://tomatofooddelivey.netlify.app/">
                     <img src={tomato}/>
+                    </a>
                 </SwiperSlide>
                 <SwiperSlide>
                     <img src={word} alt="Word Scramble" />

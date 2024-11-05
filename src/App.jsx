@@ -9,7 +9,7 @@ import Experience from './Components/Experience/Experience'
 import Portfolio from './Components/Portfolio/Portfolio'
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
-import Toggle from './Components/Toggle/Toggle'
+
 
 function App() {
   
